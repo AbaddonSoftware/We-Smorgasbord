@@ -16,12 +16,11 @@ My intent is to make it possible for users to easily bring partial amounts of re
 
 ## **Technologies**
 
-- Java
+- Javascript
+- React
 - Spring Boot
-- Thymeleaf Templates
 - MySql
 - Hibernate
-- Haven't committed to what new thing I will learn but for now I will list Spoonacular api. Could be used to showcase recipes for inspiration.
 
 Below are some examples of how the UI might look and/or behave. These are works in progress and will be subject to change as the project advances. 
 
