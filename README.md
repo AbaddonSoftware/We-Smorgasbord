@@ -22,6 +22,8 @@ My intent is to make it possible for users to easily bring partial amounts of re
 - MySql
 - Hibernate
 
+[We-Smorgasbord Trello Board](https://trello.com/b/rLj7Vcrb/lc2020)
+
 Below are some examples of how the UI might look and/or behave. These are works in progress and will be subject to change as the project advances. 
 
 ## **Initial Users View**
