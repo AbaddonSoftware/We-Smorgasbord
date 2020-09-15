@@ -9,15 +9,15 @@ My intent is to make it possible for users to easily bring partial amounts of re
 ## **Features**
 
 - [ ] User should be able to register/login to an account.
-- [ ] Logged in user should be able to create an event featuring a potluck with suggested/requested food items.
-- [ ] Logged in user(s) should be able to add themselves as guests to event(s).
-- [ ] Logged in guests of specific event should be able to update specific event to indicate they are bringing some/all of a suggested or requested food item.
+- [ ] Logged in user should be able to create a named event featuring a potluck with suggested/requested food items.
+- [ ] Logged in user(s) should be able to add themselves as guests to other users event(s).
+- [ ] Logged in guests of specific event(s) should be able to update specific event(s) to indicate they are bringing some/all of a suggested or requested food item.
 - [ ] Logged in guests should be able to edit their added items or amounts being brought.
 
 ## **Technologies**
 
 - Java
-- SpringBoot
+- Spring Boot
 - Thymeleaf Templates
 - MySql
 - Hibernate
