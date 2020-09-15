@@ -28,13 +28,13 @@ My intent is to make it possible for users to easily bring partial amounts of re
 Below are some examples of how the UI might look and/or behave. These are works in progress and will be subject to change as the project advances. 
 
 ## **Initial Users View**
-![Initial View](/pages/visitor.png)
+![Initial View](/wireframes/visitor.png)
 
 ## **Registration View**
-![Register View](/pages/registration.png)
+![Register View](/wireframes/registration.png)
 
 ## **Logged-In View**
-![Logged In View](/pages/loggedin.png)
+![Logged In View](/wireframes/loggedin.png)
 
 ## **Add A New Item View**
-![Add A New Item View](/pages/addanewitem.png)
+![Add A New Item View](/wireframes/addanewitem.png)
