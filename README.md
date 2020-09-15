@@ -16,6 +16,7 @@ My intent is to make it possible for users to easily bring partial amounts of re
 
 ## **Technologies**
 
+- Java
 - Javascript
 - React
 - Spring Boot
