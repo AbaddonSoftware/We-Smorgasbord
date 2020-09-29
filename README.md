@@ -1,3 +1,5 @@
+This needs a rewrite but not tonight
+
 # We-Smorgasbord
 A potluck scheduler application for the web
 
