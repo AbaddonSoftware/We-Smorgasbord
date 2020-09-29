@@ -29,7 +29,7 @@ public class PotluckController {
         this.potluckEventRepository = potluckEventRepository;
     }
 
-    @GetMapping("/potlucks") 
+    @GetMapping("/potluck") 
     Collection<PotluckEvent> potlucks() {
         return potluckEventRepository.findAll();
     }
@@ -41,7 +41,7 @@ public class PotluckController {
         .orElse(new ResponseEntity<>(HttpStatus.NOT_FOUND));
     }
 
-    @PostMapping("potluck")
+    @PostMapping("/potluck")
     ResponseEntity<PotluckEvent> createPotluckEvent(@Valid @RequestBody PotluckEvent potluckEvent) throws URISyntaxException {
         PotluckEvent newPotluckEvent = potluckEventRepository.save(potluckEvent);
         return ResponseEntity.created(new URI("/api/potluck" + newPotluckEvent.getId())).body(newPotluckEvent);

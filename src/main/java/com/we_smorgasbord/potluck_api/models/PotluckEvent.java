@@ -28,7 +28,6 @@ public class PotluckEvent {
     private Instant creationDate;
 
     @NotNull
-    @NotBlank
     @Size(min=3, max=150, message="Potluck Event name must not be less than 3 characters or more than 150.")
     private String name;
 
